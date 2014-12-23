@@ -1,0 +1,22 @@
+{
+  "name": "httpcat",
+  "version": "1.0.0",
+  "description": "Pipe to an http server at a specific port",
+  "bin": "cmd.js",
+  "author": "Sean West",
+  "keywords": [
+    "http",
+    "server",
+    "cat",
+    "pipe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanewest/httpcat.git"
+  },
+  "homepage": "https://github.com/seanewest/httpcat",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.4.7"
+  }
+}
