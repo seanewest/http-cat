@@ -1,9 +1,9 @@
-# HTTPCat
+# HTTP-Cat
 
 Pipe anything directly to an http server at a specific port.
 
 ```
-echo "<h1>hello</h1>" | httpcat 2000
+echo "<h1>hello</h1>" | http-cat 2000
 ```
 
 ```
@@ -14,5 +14,5 @@ curl localhost:2000
 ## Install
 
 ```
-npm install seanewest/httpcat
+npm install seanewest/http-cat
 ```

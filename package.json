@@ -1,5 +1,5 @@
 {
-  "name": "httpcat",
+  "name": "http-cat",
   "version": "1.0.0",
   "description": "Pipe to an http server at a specific port",
   "bin": "cmd.js",
